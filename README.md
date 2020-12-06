@@ -1,4 +1,4 @@
-# Social-Distancing [Yolov3]
+# Social-Distancing [Yolov3-tiny]
 
 ## Run File:
 ```
